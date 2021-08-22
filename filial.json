@@ -1,13 +1,13 @@
 [
   {
-    "key" : "RJ_LINK_CLARO",
-    "name" : "RJ_LINK_CLARO",
+    "key" : "RJCLARO",
+    "name" : "RJCLARO",
     "latitude" : -22.6088,
     "longitude" : -43.3534
   },
   {
-    "key" : "RJ_LINK_NET",
-    "name" : "RJ_LINK_NET",
+    "key" : "RJNET",
+    "name" : "RJNET",
     "latitude" : -22.629090,
     "longitude" : -43.253172
   }
