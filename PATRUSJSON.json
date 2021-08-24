@@ -5,13 +5,12 @@
     "latitude" : -10.903318,
     "longitude" : -37.132706
   },
-   {
+  {
     "key" : "AJU2",
     "name" : "Aracaju-MASTER_RADIO",
     "latitude" : -10.903318,
     "longitude" : -37.135806
-  },
-    
+  },    
   {
     "key" : "BAU1",
     "name" : "Bauru-NOROESTE",
@@ -23,8 +22,7 @@
     "name" : "Bauru-ULTRAWAVE",
     "latitude" : -22.365763,
     "longitude" : -49.041074
-  },
-  
+  },  
   {
     "key" : "BNU1",
     "name" : "Blumenau-EBT",
@@ -36,15 +34,13 @@
     "name" : "Blumenau-UNIFIQUE",
     "latitude" : -26.843129,
     "longitude" : -49.084705
-  },
-    
+  },    
   {
     "key" : "lAZ",
     "name" : "Bom Jesus da Lapa-POLLYNET",
     "latitude" : -13.132288,
     "longitude" : -43.433419
-  },    
-  
+  },
   {
     "key" : "QXD1",
     "name" : "Cachoeiro do Itapemirim-EBT",
@@ -56,8 +52,7 @@
     "name" : "Cachoeiro do Itapemirim-VOXBRAS",
     "latitude" : -20.790634,
     "longitude" : -41.156881
-  },  
-  
+  },    
   {
     "key" : "CPQ1",
     "name" : "Campinas-EBT",
@@ -70,8 +65,7 @@
     "latitude" : -22.902690,
     "longitude" : -47.201262
   },  
-  
-  {
+   {
     "key" : "CAW1",
     "name" : "Campos dos Goytacazes-NTS1",
     "latitude" : -21.765177,
@@ -83,7 +77,6 @@
     "latitude" : -21.765177,
     "longitude" : -41.348021
   },  
-  
   {
     "key" : "CTN1",
     "name" : "Colatina-INTERCOL",
@@ -96,7 +89,6 @@
     "latitude" : -19.505188,
     "longitude" : -40.599765
   },  
-  
   {
     "key" : "QDF1",
     "name" : "Conselheiro Lafaiete-AMERICANTOWER",
@@ -109,14 +101,12 @@
     "latitude" : -20.628545,
     "longitude" : -43.816280
   },  
-  
   {
     "key" : "CON",
     "name" : "Contagem-AMERICANTOWER_BGP",
     "latitude" : -19.939634,
     "longitude" : -44.065420
   },   
-  
   {
     "key" : "DIQ1",
     "name" : "Divinopolis-CTBC",
@@ -129,7 +119,6 @@
     "latitude" : -20.112795,
     "longitude" : -44.939091
   },
-    
   {
     "key" : "EXA1",
     "name" : "Extrema-DAF_REDENILF",
@@ -142,7 +131,6 @@
     "latitude" : -22.875744,
     "longitude" : -46.385781
   },  
-  
   {
     "key" : "FEC1",
     "name" : "Feira de Santana-EBT",
@@ -155,7 +143,6 @@
     "latitude" : -12.279862,
     "longitude" : -38.952860
   }, 
-    
   {
     "key" : "FLN1",
     "name" : "Florianopolis-EBT",
@@ -168,8 +155,7 @@
     "latitude" : -27.481547,
     "longitude" : -48.661523
   },
-   
-  {
+   {
     "key" : "FOR1",
     "name" : "Fortaleza-EBT",
     "latitude" : -3.842626,
@@ -181,7 +167,6 @@
     "latitude" : -3.842626,
     "longitude" : -38.596869
   },
-    
   {
     "key" : "GVR1",
     "name" : "Governador Valadares-AMERICANTOWER",
@@ -194,7 +179,6 @@
     "latitude" : -18.889826,
     "longitude" : -42.006638
   },  
-  
   {
     "key" : "IPN1",
     "name" : "Ipatinga-AMERICANTOWER",
@@ -207,7 +191,6 @@
     "latitude" : -19.510461,
     "longitude" : -42.608964
   },
-  
   {
     "key" : "IOI1",
     "name" : "Itaborai-NEXT PROVEDORA",
@@ -220,7 +203,6 @@
     "latitude" : -22.755432,
     "longitude" : -42.896874
   },
-  
   {
     "key" : "ITN1",
     "name" : "Itabuna-EBT",
@@ -233,7 +215,6 @@
     "latitude" : -14.864164,
     "longitude" : -40.767854
   },
-  
   {
     "key" : "JVM1",
     "name" : "Joao Monlevade",
@@ -246,7 +227,6 @@
     "latitude" : -19.842931,
     "longitude" : -43.206608
   },
-      
   {
     "key" : "JOI1",
     "name" : "Joinville-EBT",
@@ -259,7 +239,6 @@
     "latitude" : -26.246016,
     "longitude" : -48.912243
   },
-  
   {
     "key" : "JDF1",
     "name" : "Juiz de Fora-AMERICANTOWER",
@@ -272,7 +251,6 @@
     "latitude" : -21.634838,
     "longitude" : -43.461299
   },  
-	  
   {
     "key" : "MHA1",
     "name" : "Manhuacu-MICRON",
@@ -285,7 +263,6 @@
     "latitude" : -25.760626,
     "longitude" : -53.541337
   },
-    
   {
     "key" : "MOC1",
     "name" : "Montes Claros-ATC",
@@ -298,7 +275,6 @@
     "latitude" : -16.766685,
     "longitude" : -43.877688
   },
-      
   {
     "key" : "NSE1",
     "name" : "Nova Serrana-AMERICANTOWER",
@@ -310,8 +286,7 @@
     "name" : "Nova Serrana-ALGAR",
     "latitude" : -19.871879,
     "longitude" : -45.008833
-  },
-  
+  },  
   {
     "key" : "QHV1",
     "name" : "Novo Hamburgo-ALGAR",
@@ -323,8 +298,7 @@
     "name" : "Novo Hamburgo-EBT",
     "latitude" : -29.706298,
     "longitude" : -51.140316
-  },
-    
+  },    
   {
     "key" : "PSW1",
     "name" : "Passos-AMERICANTOWER",
@@ -336,8 +310,7 @@
     "name" : "Passos-MASTER",
     "latitude" : -20.740518,
     "longitude" :  -46.615173
-  },
-  
+  },  
   {
     "key" : "PTM1",
     "name" : "Patos de Minas-CTBC",
@@ -349,8 +322,7 @@
     "name" : "Patos de Minas-UAIMAX",
     "latitude" : -18.624130,
     "longitude" : -46.500763
-  },
-    
+  },    
   {
     "key" : "PNZ1",
     "name" : "Petrolina-ATEL",
@@ -362,8 +334,7 @@
     "name" : "Petrolina-OITELECOM",
     "latitude" : -9.393941,
     "longitude" : -40.524190
-  },
-    
+  },    
   {
     "key" : "PPY1",
     "name" : "Pouso Alegre-ALGAR",
@@ -375,8 +346,7 @@
     "name" : "Pouso Alegre-EBT",
     "latitude" : -22.275569,
     "longitude" : -45.896438
-  },
-    
+  },    
   {
     "key" : "PPB1",
     "name" : "Presidente Prudente-CABONNET",
@@ -388,8 +358,7 @@
     "name" : "Presidente Prudente-STETNET",
     "latitude" : -22.120342,
     "longitude" : -51.438175
-  },  
-  
+  },    
   {
     "key" : "RAO1",
     "name" : "Riberao Preto-ALGAR",
@@ -401,8 +370,7 @@
     "name" : "Riberao Preto-RADIOBRAS",
     "latitude" : -21.208412,
     "longitude" : -47.755293
-  },  
-  
+  },    
   {
     "key" : "RIO1",
     "name" : "Rio de Janeiro-ALGAR",
@@ -427,8 +395,7 @@
     "name" : "Salvador-ITS",
     "latitude" : -12.829212,
     "longitude" : -38.415879
-  },
-    
+  },    
   {
     "key" : "SAJ1",
     "name" : "Santo Antonio de Jesus-ITS",
@@ -440,8 +407,7 @@
     "name" : "Santo Antonio de Jesus-OI",
     "latitude" : -12.977427,
     "longitude" : -39.284961
-  },
-    
+  },    
   {
     "key" : "SJP1",
     "name" : "Sao Jose do Rio Preto-AMERICANET",
@@ -453,8 +419,7 @@
     "name" : "Sao Jose do Rio Preto-N4TELECOM",
     "latitude" : -20.802088,
     "longitude" : -49.354101
-  },   
-  
+  },     
   {
     "key" : "SJK1",
     "name" : "Sao Jose dos Campos-AMERICANET",
@@ -466,8 +431,7 @@
     "name" : "Sao Jose dos Campos-NIPCABLE",
     "latitude" : -23.264997,
     "longitude" : -45.915938
-  },
-    
+  },    
   {
     "key" : "SAO1",
     "name" : "Sao Paulo-EBT",
@@ -479,8 +443,7 @@
     "name" : "Sao Paulo-WCS",
     "latitude" : -23.478396,
     "longitude" : -46.532883
-  },
-    
+  },    
   {
     "key" : "SEI1",
     "name" : "Senhor do Bonfim-INFORNET",
@@ -492,8 +455,7 @@
     "name" : "Senhor do Bonfim-OI",
     "latitude" : -10.477657,
     "longitude" : -40.178288
-  },  
-  
+  },   
   {
     "key" : "QHG1",
     "name" : "Sete Lagoas-AMERICANTOWER",
@@ -505,8 +467,7 @@
     "name" : "Sete Lagoas-SYSVOIP",
     "latitude" : -19.489595,
     "longitude" : -44.279165
-  },
-    
+  },    
   {
     "key" : "TFL1",
     "name" : "Teofilo Otoni-AMERICANTOWER",
@@ -518,8 +479,7 @@
     "name" : "Teofilo Otoni-VIP",
     "latitude" : -17.846755,
     "longitude" : -41.490021
-  },
-    
+  },    
   {
     "key" : "UBA1",
     "name" : "Uberaba-ALGAR",
@@ -531,8 +491,7 @@
     "name" : "Uberaba-EBT",
     "latitude" : -19.736372
     "longitude" : -47.981206
-  },
-     
+  },     
   {
     "key" : "UDI1",
     "name" : "Uberlandia-AMERICANTOWER",
@@ -544,8 +503,7 @@
     "name" : "Uberlandia-ALGAR",
     "latitude" : -18.884682,
     "longitude" : -48.314143
-  },
-  
+  },  
   {
     "key" : "VAG1",
     "name" : "Varginha-AMERICANTOWER",
@@ -557,8 +515,7 @@
     "name" : "Varginha-NETVGA",
     "latitude" : -21.633936,
     "longitude" : -45.413316
-  },
-    
+  },    
   {
     "key" : "VIX1",
     "name" : "Vitoria-DINAMICA",
@@ -570,8 +527,7 @@
     "name" : "Vitoria-EBT",
     "latitude" : -20.377361,
     "longitude" : -40.450503
-  },
-  
+  },  
   {
     "key" : "VDC1",
     "name" : "Vitoria da Conquista-LINET",
