@@ -1,0 +1,14 @@
+[
+  {
+    "key" : "AJU1",
+    "name" : "Aracaju-EBT",
+    "latitude" : -10.903318,
+    "longitude" : -37.132706
+  },
+   {
+    "key" : "AJU2",
+    "name" : "Aracaju-MASTER_RADIO",
+    "latitude" : -10.903318,
+    "longitude" : -37.135806
+  }
+]
