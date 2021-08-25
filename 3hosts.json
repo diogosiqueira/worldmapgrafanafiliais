@@ -1,0 +1,38 @@
+[
+  {
+    "key" : "AJU1",
+    "name" : "Aracaju-EBT",
+    "latitude" : -10.903318,
+    "longitude" : -37.132706
+  },
+  {
+    "key" : "AJU2",
+    "name" : "Aracaju-MASTER_RADIO",
+    "latitude" : -10.903318,
+    "longitude" : -37.135806
+  },    
+  {
+    "key" : "BAU1",
+    "name" : "Bauru-NOROESTE",
+    "latitude" : -22.365763,
+    "longitude" : -49.038074
+  },
+  {
+    "key" : "BAU2",
+    "name" : "Bauru-ULTRAWAVE",
+    "latitude" : -22.365763,
+    "longitude" : -49.041074
+  },  
+  {
+    "key" : "BNU1",
+    "name" : "Blumenau-EBT",
+    "latitude" : -26.843129,
+    "longitude" : -49.081705
+  },
+  {
+    "key" : "BNU2",
+    "name" : "Blumenau-UNIFIQUE",
+    "latitude" : -26.843129,
+    "longitude" : -49.084705
+  }
+ ]
