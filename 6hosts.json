@@ -52,5 +52,41 @@
     "name" : "Cachoeiro do Itapemirim-VOXBRAS",
     "latitude" : -20.790634,
     "longitude" : -41.156881
-  }  
+  } ,    
+  {
+    "key" : "CPQ1",
+    "name" : "Campinas-EBT",
+    "latitude" : -22.902690,
+    "longitude" : -47.198262
+  },
+  {
+    "key" : "CPQ2",
+    "name" : "Campinas-WCS",
+    "latitude" : -22.902690,
+    "longitude" : -47.201262
+  },  
+   {
+    "key" : "CAW1",
+    "name" : "Campos dos Goytacazes-NTS1",
+    "latitude" : -21.765177,
+    "longitude" : -41.345021
+  },
+  {
+    "key" : "CAW2",
+    "name" : "Campos dos Goytacazes-WCS",
+    "latitude" : -21.765177,
+    "longitude" : -41.348021
+  },  
+  {
+    "key" : "CTN1",
+    "name" : "Colatina-INTERCOL",
+    "latitude" : -19.505188,
+    "longitude" : -40.596765
+  },
+  {
+    "key" : "CTN2",
+    "name" : "Colatina-OI",
+    "latitude" : -19.505188,
+    "longitude" : -40.599765
+  }
  ]
