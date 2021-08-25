@@ -34,5 +34,23 @@
     "name" : "Blumenau-UNIFIQUE",
     "latitude" : -26.8431,
     "longitude" : -49.0847
-  }
+  },    
+  {
+    "key" : "lAZ",
+    "name" : "Bom Jesus da Lapa-POLLYNET",
+    "latitude" : -13.132288,
+    "longitude" : -43.433419
+  },
+  {
+    "key" : "QXD1",
+    "name" : "Cachoeiro do Itapemirim-EBT",
+    "latitude" : -20.790634,
+    "longitude" : -41.153881
+  },
+  {
+    "key" : "QXD2",
+    "name" : "Cachoeiro do Itapemirim-VOXBRAS",
+    "latitude" : -20.790634,
+    "longitude" : -41.156881
+  }  
  ]
