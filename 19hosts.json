@@ -102,15 +102,15 @@
     "longitude" : -43.816280
   },  
   {
-    "key" : "CON",
+    "key" : "CON1",
     "name" : "Contagem-AMERICANTOWER_BGP",
     "latitude" : -19.939634,
     "longitude" : -44.065420
-  }  
+  },
   {
-    "key" : "DIQ1",
-    "name" : "Divinopolis-CTBC",
-    "latitude" : -20.112795,
-    "longitude" : -44.909091
-  }
+    "key" : "CON2",
+    "name" : "Contagem-AMERICANTOWER_SEMBGP",
+    "latitude" : -19.939634,
+    "longitude" : -44.068420
+  } 
  ]
